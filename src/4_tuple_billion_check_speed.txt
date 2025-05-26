@@ -1,0 +1,61 @@
+10 ^ 100:
+
+2.77668 : 1 Billion is passed
+
+----
+
+10 ^ 200
+
+6.02984 : 1 Billion is passed
+
+-----
+
+10 ^ 300
+
+14.3812 : 1 Billion is passed
+
+
+-----
+
+10 ^ 400
+
+20.4014 : 1 Billion is passed
+
+
+-----
+
+10 ^ 500
+
+30.0733 : 1 Billion is passed
+
+
+-----
+
+10 ^ 600
+
+46.5555 : 1 Billion is passed
+
+-----
+
+10 ^ 700
+
+61.1612 : 1 Billion is passed
+
+-----
+
+10 ^ 800
+
+77.4865 : 1 Billion is passed
+
+-----
+
+10 ^ 900
+
+93.7347 : 1 Billion is passed
+
+-----
+
+10 ^ 1000
+
+111.443 : 1 Billion is passed
+
